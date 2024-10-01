@@ -7,9 +7,9 @@ custom software installs. Not to be taken seriously.
 make
 ```
 
-To select deprecated intel compiler
+To select intel compiler
 ```bash
-make CXX=icpc
+make CXX=icpx
 ```
 
 ## Installing
